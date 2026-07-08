@@ -35,4 +35,3 @@ jobs:
       - name: Run Pytest
         run: |
           pytest -v
-          
